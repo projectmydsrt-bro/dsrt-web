@@ -1,5 +1,3 @@
-# dsrt-web
-
 ![CI](https://github.com/projectmydsrt-bro/dsrt-web/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://codecov.io/gh/projectmydsrt-bro/dsrt-web/branch/main/graph/badge.svg)
 ![Release](https://img.shields.io/github/v/release/projectmydsrt-bro/dsrt-web)
